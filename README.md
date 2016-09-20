@@ -20,7 +20,7 @@ That way you won't need to loose your precious time editing a bunch of files man
 ##### [SSH]
 *Copy and paste this code in your terminal*
 
-    git clone git@git---------------- && \
+    git clone git@github.com:ivannieto/proxyfyme.git && \
     cd proxyfy-me/ && \
     sudo chmod +x ./proxyfyme.sh && \
     sudo chmod +x ./pron.sh && \
